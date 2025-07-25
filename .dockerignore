@@ -1,7 +1,8 @@
-__pycache__/
+__pycache__
 *.pyc
 *.pyo
 *.pyd
-*.swp
+.env
 .git
-.github
+.gitignore
+.dockerignore
